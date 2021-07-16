@@ -1,0 +1,26 @@
+Total number of users: 3
+Total number of tasks: 6
+
+admin:
+
+Amount of tasks assigned - 2
+Percentage of tasks assigned - 33.33%
+Completed tasks - 0.0%
+Incomplete tasks - 100.0%
+Percentage of incomplete tasks past thier due dates - 0.0%
+
+kiyam:
+
+Amount of tasks assigned - 1
+Percentage of tasks assigned - 16.67%
+Completed tasks - 100.0%
+Incomplete tasks - 0.0%
+Percentage of incomplete tasks past thier due dates - 0.0%
+
+b:
+
+Amount of tasks assigned - 3
+Percentage of tasks assigned - 50.0%
+Completed tasks - 66.67%
+Incomplete tasks - 33.33%
+Percentage of incomplete tasks past thier due dates - 0.0%
